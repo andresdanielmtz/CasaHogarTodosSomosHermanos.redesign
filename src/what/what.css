@@ -1,0 +1,35 @@
+.what { 
+    background-color:#B17036;
+    color: white; 
+    width: 100vw;
+    height: 100vh; 
+    /* move a little bit up */
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    
+
+}
+
+.what-title {
+    font-family: 'RichardSamuels';
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    animation: appearance 1s ease-out;
+}
+
+.what-text { 
+    font-size: 1.5rem; 
+}
+
+.what-img { 
+    border-radius: 15px;
+    width: 20%;
+    height: auto; 
+     
+    margin-top: 100px;
+}

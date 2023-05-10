@@ -1,0 +1,39 @@
+@font-face { 
+    font-family: 'RichardSamuels';
+    src: url('../assets/fonts/RichardSamuels.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.home { 
+    /* width cover all page */
+    max-width: 100%;
+    background-color: #FDFAE3;
+    width: 100vw;
+    height: 100vh;
+    color: black; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;    
+}
+
+#logo { 
+    height: auto;
+    max-width: 50%;
+    transition: all 1s ease-in; 
+}
+
+#logo:hover { 
+    max-width: 60%;
+    transition: all 1s ease-in; 
+}
+
+@keyframes appearance { 
+    0% {
+        transform: translateX(-100%);
+      }
+      100% {
+        transform: translateX(0);
+      }    
+}
