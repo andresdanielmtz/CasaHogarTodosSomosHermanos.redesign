@@ -1,4 +1,4 @@
-import "./SocialImages.css";
+import "./socialImages.css";
 import instagram from "../../assets/instagram.png";
 function SocialImages() {
   return (
