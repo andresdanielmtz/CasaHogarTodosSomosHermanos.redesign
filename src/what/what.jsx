@@ -1,4 +1,5 @@
 import "./what.css";
+import whatImg from "../assets/logo/portada_fb.jpg"
 
 function WhatAreWeMrWhite() {
   return (
@@ -8,7 +9,7 @@ function WhatAreWeMrWhite() {
         <p className = "what-text">
         Somos un centro de protección a menores enfocado en ayudar a jóvenes desde los 13 a los 17 años de edad.
         </p>
-        <img src="../src/assets/logo/portada_fb.jpg" alt="" className="what-img" />
+        <img src= {whatImg} alt="" className="what-img" />
       </div>
     </>
   );

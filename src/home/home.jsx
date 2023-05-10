@@ -1,6 +1,7 @@
 import React from "react";
 import "./home.css";
 import "animate.css";
+import Logo from "../assets/logo/logo.svg"
 
 function Home() {
   return (
@@ -8,7 +9,7 @@ function Home() {
       <div className="home">
         <img
           class="animate__animated animate__backInDown" id = "logo"
-          src="../src/assets/logo/logo.svg"
+          src= {Logo} 
         />
       </div>
     </>
