@@ -1,0 +1,16 @@
+.HowToHelp {
+     width: 100vw;
+     height: 100vh;
+     background-color: #2B361C;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.HowToHelp-title { 
+    font-size: 4em;
+    font-family: "RichardSamuels"; 
+}
