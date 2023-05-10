@@ -24,12 +24,3 @@
   width: 120%;
   height: 100%;
 }
-
-.main {
-  z-index: 999;
-  overflow: auto;
-}
-
-.info {
-  z-index: 4;
-}

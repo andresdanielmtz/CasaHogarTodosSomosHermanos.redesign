@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Home from "./home/home";
 import WhatAreWeMrWhite from "./what/what";
+import SocialMedia from "./socialmedia/socialmedia";
 import "./App.css";
 
 function App() {
@@ -8,13 +9,9 @@ function App() {
 
   return (
     <>
-      <div className="main">
-        <Home />{" "}
-      </div>
-
-      <div className="info">
-        <WhatAreWeMrWhite />
-      </div>
+      <Home /> 
+      <WhatAreWeMrWhite />
+      <SocialMedia />
     </>
   );
 }

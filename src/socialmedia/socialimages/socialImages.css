@@ -1,0 +1,14 @@
+.socialImages { 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 17em;
+    height: 17em;
+    padding: 0 1rem;
+    box-sizing: border-box;
+    background-color: #FDFAE3;
+    color: black;
+    border-radius: 15px;
+
+}
