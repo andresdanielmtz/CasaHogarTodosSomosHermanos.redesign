@@ -22,7 +22,8 @@ function HowToHelp() {
         </ul>
         Para más información, comunicate a través de nuestra página de Facebook
         o Instagram. <br />
-        <b> Numero telefónico:</b> 662 210 64 32
+        <b> Numero telefónico:</b> 662 210 64 32 <br/> 
+        <b> Correo Electrónico: </b> todosomoshermanos@gmail.com <br/>
         <div id="smallFacebook"> { /* CasaHogarTodosSomosHermanos */ }
           <a href="http://m.me/CasaHogarTodosSomosHermanos" target = '_blank'>
             <img id = "smallFacebook" src={facebook} alt="facebook" />
