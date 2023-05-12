@@ -3,12 +3,31 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    width: 17em;
-    height: 17em;
+    width: 16em;
+    height: 16em;
+
+    max-width: 14em;
+    max-height: 14em;
+
     padding: 0 1rem;
     box-sizing: border-box;
     background-color: #FDFAE3;
     color: black;
-    border-radius: 15px;
+    border-radius: 30px;
+    margin: 20px;
+}
 
+
+/* if media is smaller, so are the widths and heights */
+@media (max-width: 768px) {
+    .socialImages-Images {
+        width: 10em;
+        height: 10em;
+
+    }
+
+    .socialImages { 
+        width: 12em; 
+        height: 12em;
+    }
 }

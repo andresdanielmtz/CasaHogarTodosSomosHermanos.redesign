@@ -1,11 +1,11 @@
-.socialMedia { 
-    background-color:#626C3E;
-    color: #FDFAE3; 
+.socialMedia {
+    background-color: #626C3E;
+    color: #FDFAE3;
     font-family: 'RichardSamuels';
-    width: 100vw; 
+    width: 100vw;
     height: 100vh;
-    
-    
+
+
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,12 +13,31 @@
 
 }
 
-.socialMedia-title {
-
-    font-size: 3rem; 
+@media (max-width: 768px) {
+    .socialMedia {
+        height: 80vh;
+    }
 }
 
-.socialMedia-subtitle { 
+@media (max-width: 480px) {
+    .socialMedia {
+        height: 60vh;
+    }
+}
 
+.socialMedia-title {
+
+    font-size: 3rem;
+}
+
+.socialMedia-subtitle {
     font-size: 1.2rem;
+}
+
+.socialMedia-div {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+
+
 }
