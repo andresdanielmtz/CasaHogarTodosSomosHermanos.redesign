@@ -1,7 +1,7 @@
 import "./what.css";
 import React, { useRef, useEffect } from "react";
 import whatImg from "../assets/logo/portada_fb.jpg";
-
+import locationOverview from "../assets/outside.png";
 import "ol/ol.css";
 
 function WhatAreWeMrWhite() {
@@ -17,6 +17,7 @@ function WhatAreWeMrWhite() {
         </p>
         
         <img src={whatImg} alt="" className="what-img" />
+        <img src = {locationOverview} alt = "" className = "what-img"/>
       </div>
     </>
   );
