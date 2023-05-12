@@ -10,7 +10,7 @@ function HowToHelp() {
         <i>Existen varias maneras en las que puedes ayudar:</i>
         <ul>
           <li>Ofrecer tu tiempo como voluntario en la casa hogar.</li>
-          <li>Compartir tus habilidades o conocimientos con los residentes.</li>
+          <li>Compartir tus habilidades o conocimientos con los niños.</li>
           <li>Ofrecer tu experiencia en alguna área en particular.</li>
           <li>
             Aportar con productos que puedan ser de utilidad para la casa hogar.
