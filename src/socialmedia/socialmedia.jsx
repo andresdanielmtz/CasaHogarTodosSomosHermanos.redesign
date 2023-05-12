@@ -19,6 +19,7 @@ function SocialMedia() {
             link="https://www.facebook.com/CasaHogarTodosSomosHermanos/?locale=es_LA"
             description="facebook"
             imgDir={facebook}
+            lmao = "lol"
           />
           
         </div>

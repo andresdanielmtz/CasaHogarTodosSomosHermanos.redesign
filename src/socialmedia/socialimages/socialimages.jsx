@@ -11,6 +11,7 @@ const SocialImages = (props) => {
           src={props.imgDir}
           alt={props.description}
         />
+        
       </div>
       </a>
     </>

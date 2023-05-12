@@ -1,7 +1,7 @@
 import React from "react";
 import "./home.css";
 import "animate.css";
-import Logo from "../assets/logo/logo.svg"
+import Logo from "../assets/logo/logo-test.png"
 
 function Home() {
   return (
