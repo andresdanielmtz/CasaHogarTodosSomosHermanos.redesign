@@ -1,8 +1,7 @@
 .HowToHelp {
      width: 100vw;
-     height: 90vh;
+     height: 110vh;
      background-color: #2B361C;
-
 
     display: flex;
     justify-content: center;
@@ -11,6 +10,19 @@
 }
 
 .HowToHelp-title { 
-    font-size: 4em;
+    font-size: 3em;
     font-family: "RichardSamuels"; 
+}
+
+#how-Children {  
+    height: auto;
+    width: 400px;
+    max-width: 100%; 
+}
+
+#smallFacebook { 
+    margin-top: 2%;
+    width: 75px; 
+    max-width: 50%; 
+    height: auto; 
 }

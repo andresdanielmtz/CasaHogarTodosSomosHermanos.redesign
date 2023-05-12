@@ -6,3 +6,9 @@ Por parte de la SemanaTec: Promoviendo Hambre Cero. Hemos decidido apoyar a la O
 El sitio web está construído sobre React y deployeado en Netlify. 
 
 [Enlace al sitio web.](https://casahogar-todossomoshermanos.netlify.app/)
+
+### To-do List: 
+- Mostrar Embed del Feed de Facebook de la OSF. 
+- Botón (en "¿Cómo puedes ayudar?") que mande DM directo a la página.
+- Mostrar alguna foto de la casa en sí. 
+- Reemplazar el logo por el original, limpio. 

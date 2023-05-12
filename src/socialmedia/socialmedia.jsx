@@ -10,8 +10,16 @@ function SocialMedia() {
         <h3 className="socialMedia-title">Redes sociales</h3>
         <h4 className="socialMedia-subtitle">Buscanos como...</h4>
         <div className="socialMedia-div">
-          <SocialMediaImages link = "" description="instagram" imgDir={instagram} />
-          <SocialMediaImages link = "https://www.facebook.com/CasaHogarTodosSomosHermanos/?locale=es_LA" description="facebook" imgDir={facebook} />
+          <SocialMediaImages
+            link=""
+            description="instagram"
+            imgDir={instagram}
+          />
+          <SocialMediaImages
+            link="https://www.facebook.com/CasaHogarTodosSomosHermanos/?locale=es_LA"
+            description="facebook"
+            imgDir={facebook}
+          />
         </div>
       </div>
     </>
