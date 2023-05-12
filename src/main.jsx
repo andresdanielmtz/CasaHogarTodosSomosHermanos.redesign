@@ -4,7 +4,7 @@ import App from "./App.jsx";
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <React.StrictMode>
+  <div>
     <App />
     <div id="fb-root"></div>
     <script
@@ -14,5 +14,5 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v16.0"
       nonce="N5dwPeat"
     ></script>
-  </React.StrictMode>
+  </div>
 );

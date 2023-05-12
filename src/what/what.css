@@ -2,7 +2,7 @@
     background-color:#B17036;
     color: #FDFAE3; 
     width: 100vw;
-    height: 120vh; 
+    height: 130vh; 
     /* move a little bit up */
 
     display: flex;
@@ -19,8 +19,8 @@
 }
 
 .what-text { 
-    font-size: 1.5rem; 
-    width: 30%;
+    font-size: 1.1rem; 
+    width: 50%;
 }
 
 .what-img { 
@@ -28,5 +28,9 @@
     width: 30%;
     height: auto; 
      
-    margin-top: 100px;
+    margin-top: 50px;
 }
+.what-subtext { 
+    margin-top: 1%;
+}
+
