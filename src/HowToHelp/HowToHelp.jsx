@@ -23,7 +23,7 @@ function HowToHelp() {
         Para más información, comunicate a través de nuestra página de Facebook
         o Instagram.
         <div id="smallFacebook">
-          <a href="">
+          <a href="https://www.facebook.com/CasaHogarTodosSomosHermanos/?locale=es_LA" target = '_blank'>
             <img id = "smallFacebook" src={facebook} alt="facebook" />
           </a>
         </div>
