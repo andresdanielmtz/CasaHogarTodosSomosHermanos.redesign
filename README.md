@@ -9,4 +9,3 @@ El sitio web está construído sobre React y deployeado en Netlify.
 
 ### To-do List: 
 - Mostrar Embed del Feed de Facebook de la SF. 
-- Botón (en "¿Cómo puedes ayudar?") que mande DM directo a la página.
